@@ -4,7 +4,7 @@ https://www.youtube.com/playlist?list=PLzrb6iZd6X9IOZHGVPWJqx0M5eEBvxcOV 👈
 
 **Examples and Assignments Download:** 
 
-https://github.com/ahujarohit/enum
+https://github.com/ahujarohit/interface
 
 **Doubts, Queries and Custom Trainings:** 
 
